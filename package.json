@@ -1,0 +1,19 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "Node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicktvdd/Full-stack-open-part-3.git"
+  },
+  "author": "Nick van den Dungen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicktvdd/Full-stack-open-part-3/issues"
+  },
+  "homepage": "https://github.com/Nicktvdd/Full-stack-open-part-3#readme"
+}
