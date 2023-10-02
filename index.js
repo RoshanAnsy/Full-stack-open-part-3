@@ -3,7 +3,7 @@ const app = express()
 
 app.use(express.json())
 
-const people = 
+let persons = 
 [
     { 
       "id": 1,
